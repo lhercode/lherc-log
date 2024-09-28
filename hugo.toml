@@ -1,0 +1,4 @@
+baseURL = 'https://log.lherc.com/'
+languageCode = 'en-us'
+title = lherc'
+theme = 'ananke'
